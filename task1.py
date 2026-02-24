@@ -23,7 +23,7 @@ def main():
     #Variable: p_last Prompt: Parent's Last Name:
     P_last = input("Parent's Last Name: ")
 
-    print(f"Parent's Name: {p_first} {p_last}")
+    print(f"Parent's Name: {p_first} {P_last}")
 
     #Variable: phone Prompt: Parent's Phone #:
     phone = input("Parent's Phone #: ")
